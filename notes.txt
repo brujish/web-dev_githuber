@@ -1,1 +1,2 @@
 Sample example text file
+Some new texts added up here!!
